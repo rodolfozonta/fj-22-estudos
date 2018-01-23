@@ -25,3 +25,8 @@ Toda a configuração do projeto está dentro do arquivo `application.proppertie
 ## Como trabalhar nesse projeto
 
 * Fazer coisas pequenas, sempre lembrando de commitar.
+
+
+#### Leituras para ajudar no projeto
+
+* [Branchs](https://git-scm.com/book/pt-br/v1/Ramifica%C3%A7%C3%A3o-Branching-no-Git-O-que-%C3%A9-um-Branch)
